@@ -554,7 +554,7 @@ section.bunnybox1 {
 
     .form-group input,
     .form-group button {
-        width: ;
+        /* width: ; */
         border-radius: 5px;
     }
 
